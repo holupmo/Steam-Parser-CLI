@@ -1,4 +1,4 @@
-# 🎮 Steam Parser
+# 🎮 Steam Parser CLI
 
 **Асинхронный парсер скидок в Steam**
 
